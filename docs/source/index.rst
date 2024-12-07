@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+CEO Minh Quyết - Người Dẫn Đường Thành Công của XO88
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Minh Quyết <https://xo88.loan/minh-quyet/>`_ là lãnh đạo tài ba tại XO88, một trong những nhà cái uy tín hàng đầu châu Á. Với tầm nhìn chiến lược và khả năng lãnh đạo xuất sắc, ông Minh Quyết đã góp phần quan trọng trong việc định hình và phát triển thương hiệu XO88, đưa XO88 trở thành điểm đến lý tưởng cho hàng triệu người yêu thích cá cược trực tuyến. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Dưới sự dẫn dắt của ông, XO88 không chỉ tạo dấu ấn bởi hệ thống game đa dạng và các chương trình khuyến mãi hấp dẫn mà còn nổi bật với dịch vụ khách hàng chuyên nghiệp và hệ thống bảo mật hiện đại. CEO Minh Quyết luôn đặt lợi ích của người chơi lên hàng đầu, cam kết mang đến trải nghiệm cá cược an toàn, công bằng và chất lượng nhất.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 2759/2 Đ. Phạm Thế Hiển, Phường 7, Quận 8, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0365541490. 
 
-.. toctree::
+Email: info@xo88.loan. 
 
-   usage
-   api
+Website: https://xo88.loan/minh-quyet/ 
+
+#minhquyet #ceominhquyet #ceominhquyet_xo88
